@@ -8,6 +8,7 @@ class DataValidationTrainingPipeline:
         pass
 
     def main(self):
+        
         config = ConfigurationManager()
         data_validation_config = config.get_data_validation_config()
         data_validation = DataValiadtion(config=data_validation_config)
