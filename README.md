@@ -1,3 +1,8 @@
+<img width="1440" height="900" alt="Image" src="https://github.com/user-attachments/assets/a37d7267-c9fe-493e-a75c-2cc0318aeb81" />
+
+<img width="1440" height="900" alt="Image" src="https://github.com/user-attachments/assets/75cafb91-d846-4924-a518-2310720f8780" />
+
+<img width="1440" height="900" alt="Image" src="https://github.com/user-attachments/assets/76d27316-97be-4bf8-a0fb-34cfd60e61d4" />
 # End to end Text-Summarizer-Project
 
 ## Workflows
