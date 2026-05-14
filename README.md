@@ -2,6 +2,8 @@
 
 <img width="1440" height="900" alt="Image" src="https://github.com/user-attachments/assets/75cafb91-d846-4924-a518-2310720f8780" />
 
+<img width="1440" height="900" alt="Image" src="https://github.com/user-attachments/assets/dfb96672-d59d-4a6f-9d92-a3e53c292709" />
+
 <img width="1440" height="900" alt="Image" src="https://github.com/user-attachments/assets/76d27316-97be-4bf8-a0fb-34cfd60e61d4" />
 # End to end Text-Summarizer-Project
 
